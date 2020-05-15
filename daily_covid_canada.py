@@ -2,13 +2,6 @@ __author__ = 'Ryan DeMuse'
 __date__ = '5-14-2020'
 __email__ = 'ryan.demuse@du.edu'
 
-"""
-TODO:
-
-        make into video: ffmpeg -f image2 -framerate 5 -pattern_type sequence -start_number 0 -r 5 -i %d.png -s 720x480 -pix_fmt yuv420p covid_canada_daily.mp4
-
-"""
-
 import pandas
 import geopandas
 import matplotlib.pyplot as plt
