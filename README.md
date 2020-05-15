@@ -2,7 +2,7 @@
 
 This repository provides a file to create a video from several choropleth images using ```pandas```, ```geopandas```, and ```matplotlib```.
 
-The dataset of daily Covid-19 numbers and ```.shp``` file are from [```Statistics Canada```](https://www.statcan.gc.ca/eng/start).
+The dataset of daily Covid-19 numbers and ```.shp``` file are from [```Statistics Canada```](https://www.statcan.gc.ca/eng/start). Why Canada? Because Statistics Canada is amazing, that's why.
 
 An ```.shp``` file gives the shapes of different geographic objects (in this case, Provinces) that are used to plot them by ```geopandas```.
 
