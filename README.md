@@ -1,2 +1,3 @@
 # Covid-19-by-Province
-video of Covid-19 numbers by province in Canada
+
+This repository provides a file to create a video from several choropleth images using ```pandas```, ```geopandas```, and ```matplotlib```.
